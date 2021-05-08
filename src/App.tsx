@@ -27,7 +27,7 @@ const AppStyle: React.CSSProperties = {
 const AppHeaderStyle: React.CSSProperties = {
   // backgroundColor: '#282c34',
   backgroundColor: 'white',
-  minHeight: '80vh',
+  minHeight: '100vh',
   display: 'flex',
   flexDirection: 'column',
   alignItems: 'center',
