@@ -13,7 +13,6 @@ import KeyboardReturnIcon from '@material-ui/icons/KeyboardReturn';
 import DoneIcon from '@material-ui/icons/Done';
 import DeviceHubIcon from '@material-ui/icons/DeviceHub';
 
-import CheckBoxOutlineBlankIcon from '@material-ui/icons/CheckBoxOutlineBlank';
 import ExitToAppIcon from '@material-ui/icons/ExitToApp';
 import ListIcon from '@material-ui/icons/List';
 
