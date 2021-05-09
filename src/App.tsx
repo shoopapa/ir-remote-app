@@ -42,7 +42,6 @@ const colStyle: React.CSSProperties = {
 }
 
 
-
 function App() {
 
   const sendFileRequest = async (file: string): Promise<void> => {
